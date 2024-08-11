@@ -1,0 +1,8 @@
+{
+  "generator-anubhav-basicfiori": {
+    "projectName": "zbasicfioritemp",
+    "newDir": true,
+    "projectNamespace": "xyz.com",
+    "projectNamespaceModule": "anubhav/app"
+  }
+}
